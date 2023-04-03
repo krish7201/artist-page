@@ -1,6 +1,6 @@
 # artist-page
 ## Description
-I made a generic artist website out of CSS and Bootstrap 5 for a guy at H&amp;M.  Check it out! :)
+I made a generic artist website out of CSS and Bootstrap 5 for a guy I met who wanted one at H&amp;M.
 
 ## Install
 To check out the page, I believe all you've gotta do is
