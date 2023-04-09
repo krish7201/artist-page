@@ -2,7 +2,7 @@
 ## Description
 I made a generic artist website out of CSS and Bootstrap 5 for a guy I met who wanted one at H&amp;M.
 
-<img width="959" alt="Screenshot 2023-04-03 114737" src="https://user-images.githubusercontent.com/44722635/229575279-31c4242d-4aeb-40ea-a9a1-ea4c8851ba5d.png">
+<img width="959" alt="Screenshot 2023-04-03 114737" src="https://user-images.githubusercontent.com/44722635/229575279-31c4242d-4aeb-40ea-a9a1-ea4c8851ba5d.png"></img>
 
 ## Install
 To check out the page, I believe all you've gotta do is
