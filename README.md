@@ -12,4 +12,4 @@ To check out the page, I believe all you've gotta do is
 ## Note
 - The images have cool hover transition effects, especially the center image.
 - This was hosted on amazon RDS/EC2, but I dropped it because the guy didn't end up following through with this. 
-- It is very dynamically scalable
+- It is very dynamically scalable because of the Bootstrap 5 inclusion.
